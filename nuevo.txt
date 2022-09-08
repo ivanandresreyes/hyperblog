@@ -1,7 +1,9 @@
 este es un nuevo archivo para el laboratorio git
 
-espero poder lograr el objetivo
+espero poder lograr el objetivo, para todos
 
 ivan andres reyes poveda 
 
-ingeniero de sistemas 
+ingeniero de sistemas con especializacion
+
+me gusta el futbol y el ciclismo
